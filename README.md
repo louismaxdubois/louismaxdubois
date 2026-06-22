@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm building developer tools
 
-<!--
-**louismaxdubois/louismaxdubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer focused on AI agents, automation workflows, web3 infrastructure, and developer tools.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x402 CLI](https://x402cli.xyz) — discovery and testing layer for x402-powered APIs on Base
+- Public docs and examples for HTTP 402 payment flows
+- Registry preview for x402-compatible APIs
+- Developer tools around AI agents, automation, and web3 infrastructure
+
+## Current focus
+
+- x402 API discovery
+- Base + USDC payment flows
+- AI agent tooling
+- Web3 developer infrastructure
+
+## Links
+
+- Website: [x402cli.xyz](https://x402cli.xyz)
+- Project repo: [x402cli](https://github.com/louismaxdubois/x402cli)
